@@ -149,7 +149,7 @@
   
   /* Hero Section */
   .hero {
-    background: url('/images/hero-shamba.jpg') center/cover no-repeat;
+    background: url('./images/hero-shamba.jpg') center/cover no-repeat;
     height: 85vh;
     position: relative;
     display: flex;
